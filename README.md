@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Vera Fadeeva
-- 🌱 I’m currently learning Pyhon, Django
+- 🌱 I’m currently learning Python, Django
 - ⚡ In my free time, I solve problems on Leetcode and read tech articles.
 - 📫 How to reach me: lunatik.yar@gmail.com
